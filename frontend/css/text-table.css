@@ -1,0 +1,10 @@
+table.text_table {
+	font-family: "Times New Roman";
+}
+
+table.text_table tr.header > td,
+table.text_table td.header {
+	font-family: "Courier New";
+	font-weight: bold;
+	color: red;
+}
