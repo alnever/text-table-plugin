@@ -38,7 +38,7 @@ class Text_Table {
     wp_enqueue_style(
       'text-table-style',
       plugin_dir_url(__FILE__)."css/text-table.css",
-      null, null, all
+      null, null, 'all'
     );
   }
 
