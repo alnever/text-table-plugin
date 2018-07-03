@@ -6,4 +6,5 @@ table.text_table tr.header > td,
 table.text_table td.header {
 	font-family: "Courier New";
 	font-weight: bold;
+    display: table-cell;
 }
